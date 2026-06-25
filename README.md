@@ -18,6 +18,8 @@ The system proposed here is designed around that insight: a personal health comp
 
 ## What This System Does
 
+![System Overview](./system_overview.png)
+
 A paired smartphone and smartwatch that continuously monitors the user's vitals, learns what is normal *for this specific person*, and takes graduated action when something changes — always through the appropriate human in their life first.
 
 ```
