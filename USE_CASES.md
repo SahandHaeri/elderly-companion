@@ -1,5 +1,7 @@
 # Use Cases
 
+![Use Case Diagram](./diagrams/healthcare_usecase_diagram.png)
+
 Five core use case scenarios covering the system's most critical interaction flows. Each scenario includes a formal use case table, activity flow, and exception handling.
 
 ---
